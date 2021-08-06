@@ -18,8 +18,10 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
 
-    - name: Install and build
+    - name: Install
       run: npm install
+
+    - name: Build
       run: npm run build
 
     - name: Configure AWS credentials from Test account
