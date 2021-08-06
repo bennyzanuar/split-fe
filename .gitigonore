@@ -1,0 +1,6 @@
+packages/auth/node_modules
+packages/marketing/node_modules
+packages/container/node_modules
+packages/dashboard/node_modules
+dist
+.DS_Store
