@@ -7,7 +7,6 @@ export default () => {
       <h1>WKWKWKWKWKKWKW</h1>
       <hr />
       <MarketingApp />
-
     </>
   )
 }
