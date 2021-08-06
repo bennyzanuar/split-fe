@@ -6,6 +6,7 @@ export default () => {
     <>
       <h1>wkwkwkwk</h1>
       <hr />
+
       <MarketingApp />
     </>
   )
